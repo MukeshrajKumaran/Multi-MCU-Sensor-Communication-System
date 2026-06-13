@@ -183,11 +183,3 @@ SSD1306 OLED
 - Cloud-based data logging
 - PCB implementation
 
----
-
-## Author
-
-**Mukesh Raj K**
-
-Electronics and Communication Engineering  
-Embedded Systems | IoT | Hardware Development
